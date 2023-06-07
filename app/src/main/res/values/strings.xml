@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResoluteAI</string>
+    <string name="sign_in">Sign In\n</string>
+    <string name="sign_up">Sign Up\n</string>
+</resources>

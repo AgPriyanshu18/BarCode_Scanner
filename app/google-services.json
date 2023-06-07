@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963464612862",
+    "project_id": "resolute-ai-32303",
+    "storage_bucket": "resolute-ai-32303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963464612862:android:b3e7326116ba0ff0130eaf",
+        "android_client_info": {
+          "package_name": "com.example.resoluteai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963464612862-ccg397m6ugpsgs8g3ailhtntlqdelu5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resoluteai",
+            "certificate_hash": "7943b4487abde470364d0b538d598b0c2ebba604"
+          }
+        },
+        {
+          "client_id": "963464612862-gug3p5mqrse3hbkin9clne4t9hr4oc60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYpi5bQAD0R0ry4J6CFeHsqdN32Ov-cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963464612862-gug3p5mqrse3hbkin9clne4t9hr4oc60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

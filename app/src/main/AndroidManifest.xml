@@ -16,6 +16,10 @@
             android:name=".ScannerActivity"
             android:exported="false" />
         <activity
+            android:name=".CustomScannerActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
             android:name=".SignUpActivity"
             android:exported="false" />
         <activity

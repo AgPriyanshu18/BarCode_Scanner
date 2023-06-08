@@ -27,7 +27,7 @@ class LoginActivity : AppCompatActivity() {
 
     fun signInSuccess(){
         pDialog.dismiss()
-        startActivity(Intent(this,MainActivity::class.java))
+        startActivity(Intent(this,ScannerActivity::class.java))
         finish()
     }
 

@@ -1,20 +1,20 @@
 {
   "project_info": {
-    "project_number": "963464612862",
-    "project_id": "resolute-ai-32303",
-    "storage_bucket": "resolute-ai-32303.appspot.com"
+    "project_number": "396136888861",
+    "project_id": "rsolute-ai",
+    "storage_bucket": "rsolute-ai.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:963464612862:android:b3e7326116ba0ff0130eaf",
+        "mobilesdk_app_id": "1:396136888861:android:491aaf696bb46ae1a164f4",
         "android_client_info": {
           "package_name": "com.example.resoluteai"
         }
       },
       "oauth_client": [
         {
-          "client_id": "963464612862-ccg397m6ugpsgs8g3ailhtntlqdelu5j.apps.googleusercontent.com",
+          "client_id": "396136888861-cn1ob9m3mhtattdr5nimvl5973bcegsf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.resoluteai",
@@ -22,20 +22,20 @@
           }
         },
         {
-          "client_id": "963464612862-gug3p5mqrse3hbkin9clne4t9hr4oc60.apps.googleusercontent.com",
+          "client_id": "396136888861-hdrd140uv5jn4ahh8pa4mjf2b37473eg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCwYpi5bQAD0R0ry4J6CFeHsqdN32Ov-cY"
+          "current_key": "AIzaSyDw-EgiOvNhngQrXU9QlG9SHhjOpBXpzwQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "963464612862-gug3p5mqrse3hbkin9clne4t9hr4oc60.apps.googleusercontent.com",
+              "client_id": "396136888861-hdrd140uv5jn4ahh8pa4mjf2b37473eg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
